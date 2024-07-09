@@ -1,2 +1,2 @@
-# PokeD-x-JS
+# Pokedex JS
 # Trilha JS Developer - Pokedex
